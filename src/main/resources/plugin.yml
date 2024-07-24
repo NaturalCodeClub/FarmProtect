@@ -1,0 +1,4 @@
+name: FarmProtect
+version: '1.0-SNAPSHOT'
+main: org.ncc.farmProtect.Main
+api-version: '1.20'
